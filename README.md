@@ -4,6 +4,7 @@
 
 (1) Data Source 1: the information regarding 100 biggest cities in the United States by popluation.
 https://ballotpedia.org/Largest_cities_in_the_United_States_by_population
+
 (2) Data Source 2: YELP Fusion API. 
 Instructions for getting an application id and an application key:
 	1) Create a yelp account, or log in to your own
@@ -29,6 +30,7 @@ Four functions for data presentation: plot_100_restaurants_maps, plot_bar_chart_
 4. Brief user guide, including how to run the program and how to choose presentation options.
 
 (1) Build your own secrets.py 
+
 (2) Put "python3 final_project.py" in the command line and run it 
 (3) Enter "help" to see specific instructions
 (4) Enter a city name and a state name from the list shown in the instructions. Notice that restaurants information in that city on yelp will be able to be displayed later. 
