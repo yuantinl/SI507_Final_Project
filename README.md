@@ -1,6 +1,6 @@
 # W2018-507-FinalProject-Yuanting Lin
 
-1. Data sources used, including instructions for a user to access the data sources (e.g., API keys or client secrets needed, along with a pointer to instructions on how to obtain these and instructions for how to incorporate them into your program (e.g., secrets.py file format))
+1. Data sources used
 
 (1) Data Source 1: the information regarding 100 biggest cities in the United States by popluation.
 https://ballotpedia.org/Largest_cities_in_the_United_States_by_population
@@ -16,11 +16,11 @@ Instructions for getting an application id and an application key:
 	
 	You will now have an application id and an application key. Put them in a secrets.py file. 
 
-2. Any other information needed to run the program (e.g., pointer to getting started info for plotly)
+2. Any other information needed to run the program
 
 Plotly is a graphing service that you can work with Python. Go ahead and regsiter an account on https://plot.ly/#/. In this project, specific commands will open webpage with plot. 
 
-3. Brief description of how your code is structured, including the names of significant data processing functions (just the 2-3 most important functions--not a complete list) and class definitions. If there are large data structures (e.g., lists, dictionaries) that you create to organize your data for presentation, briefly describe them.
+3. Brief description of how my code is structured. 
 
 (1) Data access
 Use get_100_biggest_cities function and class Cities to get information for cities. 
