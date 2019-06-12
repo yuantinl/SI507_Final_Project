@@ -1,6 +1,6 @@
 # National Sites Information 
 
-1. Data sources used
+**1.Data sources used**
 
 	(1) Data Source 1: the information regarding 100 biggest cities in the United States by popluation.
 https://ballotpedia.org/Largest_cities_in_the_United_States_by_population
@@ -16,11 +16,11 @@ Instructions for getting an application id and an application key:
 	
 	You will now have an application id and an application key. Put them in a secrets.py file. 
 
-2. Any other information needed to run the program
+**2. Any other information needed to run the program**
 
 	Plotly is a graphing service that you can work with Python. Go ahead and regsiter an account on https://plot.ly/#/. 	In this project, specific commands will open webpage with plot. 
 
-3. Brief description of how my code is structured. 
+**3. Brief description of how my code is structured. **
 
 	(1) Data access
 	Use get_100_biggest_cities function and class Cities to get information for cities. 
@@ -33,7 +33,7 @@ Instructions for getting an application id and an application key:
 	Four functions for data presentation: plot_100_restaurants_maps, plot_bar_chart_by_types, plot_box_plot_by_types and 	     plot_bar_chart_top_five_restaurants. 
 
 
-4. Brief user guide, including how to run the program and how to choose presentation options.
+**4. Brief user guide, including how to run the program and how to choose presentation options.**
 
 	(1) Build your own secrets.py 
 
