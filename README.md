@@ -37,7 +37,7 @@ Instructions for getting an application id and an application key:
 
 	(1) Build your own secrets.py 
 
-	(2) Put "python3 final_project.py" in the command line and run it 
+	(2) Put "python3 nationalsties-api.py" in the command line and run it 
 
 	(3) Enter "help" to see specific instructions
 
