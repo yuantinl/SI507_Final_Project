@@ -21,7 +21,7 @@ You will now have an application id and an application key. Put them in a secret
 Plotly is a graphing service that you can work with Python. Go ahead and regsiter an account on https://plot.ly/#/. 	In this project, specific commands will open webpage with plot. 
 
 &nbsp;
-## the Structure of My Code
+## Structure of My Code
 
 **1. Data access**: Use get_100_biggest_cities function and class Cities to get information for cities. 
 Use search function, class Yelp, and search_using_100_biggest_cities function to get information for restaurants in 	    yelp. 
