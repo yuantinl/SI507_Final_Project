@@ -3,10 +3,10 @@
 &nbsp;
 ## Data Sources
 
-Data Source 1: the information regarding 100 biggest cities in the United States by popluation.
+**Data Source 1**: the information regarding 100 biggest cities in the United States by popluation.
 https://ballotpedia.org/Largest_cities_in_the_United_States_by_population
 
-Data Source 2: YELP Fusion API. 
+**Data Source 2**: YELP Fusion API. 
 Instructions for getting an application id and an application key:
 
 1. Create a yelp account, or log in to your own
@@ -23,19 +23,23 @@ Plotly is a graphing service that you can work with Python. Go ahead and regsite
 &nbsp;
 ## the Structure of My Code
 
-1. Data access
-	Use get_100_biggest_cities function and class Cities to get information for cities. 
-	Use search function, class Yelp, and search_using_100_biggest_cities function to get information for restaurants in 	    yelp. 
+**1. Data access**
 
-2. Data storage
-	Use yelp_data function to create table Yelp and Cities. Insert data into table Yelp and Cities. 
+Use get_100_biggest_cities function and class Cities to get information for cities. 
+Use search function, class Yelp, and search_using_100_biggest_cities function to get information for restaurants in 	    yelp. 
 
-3. Data processing
-	Four functions for data presentation: plot_100_restaurants_maps, plot_bar_chart_by_types, plot_box_plot_by_types and 	     plot_bar_chart_top_five_restaurants. 
+**2. Data storage**
+
+Use yelp_data function to create table Yelp and Cities. Insert data into table Yelp and Cities. 
+
+**3. Data processing**
+
+Four functions for data presentation: plot_100_restaurants_maps, plot_bar_chart_by_types, plot_box_plot_by_types and 	     plot_bar_chart_top_five_restaurants. 
 
 
 &nbsp;
 ## User Guide
+
 1. Build your own secrets.py 
 2. Put "python3 nationalsties-api.py" in the command line and run it 
 3. Enter "help" to see specific instructions
