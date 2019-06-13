@@ -46,7 +46,7 @@ Use search function, class Yelp, and search_using_100_biggest_cities function to
 
 &nbsp;
 ## Tools and Packages used
-**Stack**
+**Stack:**
 * Python
 * Git 
 
@@ -59,7 +59,7 @@ Use search function, class Yelp, and search_using_100_biggest_cities function to
 * urllib2
 * json 
 
-**Data Storage**
+**Data Storage:**
 * cache 
 * sqlite3
 
