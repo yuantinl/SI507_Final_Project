@@ -43,3 +43,27 @@ Use search function, class Yelp, and search_using_100_biggest_cities function to
 * Enter "plot bar chart by types". Then it will group the restaurants by types and display top six restaurants by a bar chart.
 * Enter "plot box plot by types". Then it will group the restaurants by types and display top six restaurants by a box plot.
 * Enter "plot bar chart top five ". Then it will display the ratings of top five restaurants by a bar chart.
+
+&nbsp;
+## Tools and Packages used
+**Stack**
+* Python
+* Git 
+
+**Web API:**
+* API key authorization 
+
+**Web Scraping:**
+* requests
+* Beautifulsoup
+* urllib2
+* json 
+
+**Data Storage**
+* cache 
+* sqlite3
+
+**Interactive Data Visualization:**
+* Plotly
+
+**Unit Testing**
