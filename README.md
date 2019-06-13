@@ -16,11 +16,6 @@ Instructions for getting an application id and an application key:
 You will now have an application id and an application key. Put them in a secrets.py file. 
 
 &nbsp;
-## Other Information 
-
-Plotly is a graphing service that you can work with Python. Go ahead and regsiter an account on https://plot.ly/#/. 	In this project, specific commands will open webpage with plot. 
-
-&nbsp;
 ## Structure of My Code
 
 **1. Data access**: Use get_100_biggest_cities function and class Cities to get information for cities. 
@@ -33,7 +28,7 @@ Use search function, class Yelp, and search_using_100_biggest_cities function to
 
 &nbsp;
 ## User Guide
-
+0. Plotly is a graphing service that you can work with Python. Go ahead and regsiter an account on https://plot.ly/#/. 	In this project, specific commands will open webpage with plot. 
 1. Build your own secrets.py 
 2. Put "python3 nationalsties-api.py" in the command line and run it 
 3. Enter "help" to see specific instructions
