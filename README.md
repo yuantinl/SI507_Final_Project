@@ -1,7 +1,7 @@
 # National Sites Information 
 
 &nbsp;
-## Data sources used.
+## Data Sources
 
 Data Source 1: the information regarding 100 biggest cities in the United States by popluation.
 https://ballotpedia.org/Largest_cities_in_the_United_States_by_population
@@ -16,12 +16,12 @@ Instructions for getting an application id and an application key:
 You will now have an application id and an application key. Put them in a secrets.py file. 
 
 &nbsp;
-## Any other information needed to run the program.
+## Other Information 
 
 Plotly is a graphing service that you can work with Python. Go ahead and regsiter an account on https://plot.ly/#/. 	In this project, specific commands will open webpage with plot. 
 
 &nbsp;
-## Brief description of how my code is structured.
+## the Structure of My Code
 
 1. Data access
 	Use get_100_biggest_cities function and class Cities to get information for cities. 
@@ -35,7 +35,7 @@ Plotly is a graphing service that you can work with Python. Go ahead and regsite
 
 
 &nbsp;
-## Brief user guide, including how to run the program and how to choose presentation options.
+## User Guide
 1. Build your own secrets.py 
 2. Put "python3 nationalsties-api.py" in the command line and run it 
 3. Enter "help" to see specific instructions
